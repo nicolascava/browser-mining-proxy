@@ -1,5 +1,7 @@
 # Browser Mining Proxy
 
+> Prototype of browser mining using CryptoNight ASM.js library
+
 A proof of concept of browser mining using CryptoNight ASM.js library. The proxy connects to a mining pool. Should work with any CryptoNight-currency pool based on the Stratum Mining Protocol.
 
 ## Installation
